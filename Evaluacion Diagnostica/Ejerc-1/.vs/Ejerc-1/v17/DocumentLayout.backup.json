@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Gith\\Ej 1\\Ejerc-1\\",
+  "WorkspaceRootPath": "D:\\Gith\\Evaluacion Diagnostica\\Ejerc-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FFCF116-137E-49F4-8F10-1D183BA10BB1}|Ejerc-1\\Ejerc-1.csproj|d:\\gith\\ej 1\\ejerc-1\\ejerc-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FFCF116-137E-49F4-8F10-1D183BA10BB1}|Ejerc-1\\Ejerc-1.csproj|d:\\gith\\evaluacion diagnostica\\ejerc-1\\ejerc-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FFCF116-137E-49F4-8F10-1D183BA10BB1}|Ejerc-1\\Ejerc-1.csproj|solutionrelative:ejerc-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Gith\\Ej 1\\Ejerc-1\\Ejerc-1\\Program.cs",
+              "DocumentMoniker": "D:\\Gith\\Evaluacion Diagnostica\\Ejerc-1\\Ejerc-1\\Program.cs",
               "RelativeDocumentMoniker": "Ejerc-1\\Program.cs",
-              "ToolTip": "D:\\Gith\\Ej 1\\Ejerc-1\\Ejerc-1\\Program.cs*",
-              "RelativeToolTip": "Ejerc-1\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Gith\\Evaluacion Diagnostica\\Ejerc-1\\Ejerc-1\\Program.cs",
+              "RelativeToolTip": "Ejerc-1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-30T22:24:37.696Z",
               "EditorCaption": ""

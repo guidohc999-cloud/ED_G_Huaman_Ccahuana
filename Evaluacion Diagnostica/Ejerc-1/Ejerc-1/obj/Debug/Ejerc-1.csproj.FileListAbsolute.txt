@@ -1,7 +1,0 @@
-D:\Gith\Ej 1\Ejerc-1\Ejerc-1\bin\Debug\Ejerc-1.exe.config
-D:\Gith\Ej 1\Ejerc-1\Ejerc-1\bin\Debug\Ejerc-1.exe
-D:\Gith\Ej 1\Ejerc-1\Ejerc-1\bin\Debug\Ejerc-1.pdb
-D:\Gith\Ej 1\Ejerc-1\Ejerc-1\obj\Debug\Ejerc-1.csproj.AssemblyReference.cache
-D:\Gith\Ej 1\Ejerc-1\Ejerc-1\obj\Debug\Ejerc-1.csproj.CoreCompileInputs.cache
-D:\Gith\Ej 1\Ejerc-1\Ejerc-1\obj\Debug\Ejerc-1.exe
-D:\Gith\Ej 1\Ejerc-1\Ejerc-1\obj\Debug\Ejerc-1.pdb
