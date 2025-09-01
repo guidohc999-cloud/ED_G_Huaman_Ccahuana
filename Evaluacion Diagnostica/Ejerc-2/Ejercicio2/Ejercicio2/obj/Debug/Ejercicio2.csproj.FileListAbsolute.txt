@@ -1,7 +1,0 @@
-D:\Gith\Evaluacion Diagnostica\Ejerc-2\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
-D:\Gith\Evaluacion Diagnostica\Ejerc-2\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
-D:\Gith\Evaluacion Diagnostica\Ejerc-2\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
-D:\Gith\Evaluacion Diagnostica\Ejerc-2\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
-D:\Gith\Evaluacion Diagnostica\Ejerc-2\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
-D:\Gith\Evaluacion Diagnostica\Ejerc-2\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
-D:\Gith\Evaluacion Diagnostica\Ejerc-2\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
