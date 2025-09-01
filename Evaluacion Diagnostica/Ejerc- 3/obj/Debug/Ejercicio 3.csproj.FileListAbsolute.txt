@@ -1,0 +1,7 @@
+D:\Gith\Evaluacion Diagnostica\Ejerc- 3\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+D:\Gith\Evaluacion Diagnostica\Ejerc- 3\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+D:\Gith\Evaluacion Diagnostica\Ejerc- 3\Ejercicio 3\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+D:\Gith\Evaluacion Diagnostica\Ejerc- 3\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.AssemblyReference.cache
+D:\Gith\Evaluacion Diagnostica\Ejerc- 3\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.CoreCompileInputs.cache
+D:\Gith\Evaluacion Diagnostica\Ejerc- 3\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+D:\Gith\Evaluacion Diagnostica\Ejerc- 3\Ejercicio 3\Ejercicio 3\obj\Debug\Ejercicio 3.pdb
